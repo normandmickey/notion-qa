@@ -1,4 +1,4 @@
-# Notion Question-Answering
+# Payroll Question-Answering
 
 🤖Ask questions to your Notion database in natural language🤖
 
